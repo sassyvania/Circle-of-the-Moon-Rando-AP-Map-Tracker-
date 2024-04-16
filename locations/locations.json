@@ -1,0 +1,2541 @@
+[
+  
+  {
+  "name": "Catacombs",
+  "access_rules": [],
+  "children": [
+
+    {
+      "name": "Catacomb: Push crate treasure room",
+      "access_rules": [
+        "push"
+      ],
+      "sections": [
+        {
+  
+          "item_count": 1
+        }
+  
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 420,
+          "y": 605
+        }
+        
+      ]
+    },
+    {
+      "name": "Catacomb: Fleamen brain room - Lower",
+      "access_rules": [
+        "$doublejump"
+      ],
+      "sections": [
+        {
+  
+          "item_count": 1
+        }
+  
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 297,
+          "y": 605
+        }
+        
+      ]
+    },
+    {
+      "name": "Catacomb: Fleamen brain room - Upper",
+      "access_rules": [
+        "$doublejump, $freeze", "roc"
+      ],
+      "sections": [
+        {
+  
+          "item_count": 1
+        }
+  
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 297,
+          "y": 575
+        }
+        
+      ]
+    },
+    
+    {
+      "name": "Catacomb: Earth Demon dash room",
+      "access_rules": [
+        
+      ],
+      "sections": [
+        {
+  
+          "item_count": 1
+        }
+  
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 451,
+          "y": 622
+        }
+        
+      ]
+    },
+    {
+      "name": "Catacomb: Tackle block treasure room",
+      "access_rules": [ "tackle"
+        
+      ],
+      "sections": [
+        {
+  
+          "item_count": 1
+        }
+  
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 513,
+          "y": 605
+        }
+        
+      ]
+    },
+    {
+      "name": "Catacomb: Earth Demon bone pit - Lower",
+      "access_rules": [ ],
+      "sections": [
+        {
+  
+          "item_count": 1
+        }
+  
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 612,
+          "y": 621
+        }
+        
+      ]
+    },
+    {
+      "name": "Catacomb: Earth Demon bone pit - Upper",
+      "access_rules": [ "$walljump"],
+      "sections": [
+        {
+  
+          "item_count": 1
+        }
+  
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 630,
+          "y": 590
+        }
+        
+      ]
+    },
+    {
+      "name": "Catacomb: Below right column save room",
+      "access_rules": [ ],
+      "sections": [
+        {
+  
+          "item_count": 1
+        }
+  
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 598,
+          "y": 590
+        }
+        
+      ]
+    },
+    {
+      "name": "Catacomb: Right column fake wall",
+      "access_rules": [ ],
+      "sections": [
+        {
+  
+          "item_count": 1
+        }
+  
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 535,
+          "y": 605
+        }
+        
+      ]
+    },
+    {
+      "name": "Catacomb: Right column Spirit room",
+      "access_rules": [ ],
+      "sections": [
+        {
+  
+          "item_count": 1
+        }
+  
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 536,
+          "y": 573
+        }
+        
+      ]
+    },
+    {
+      "name": "Catacomb: Muddy Mudman platforms room - Lower",
+      "access_rules": [ ],
+      "sections": [
+        {
+  
+          "item_count": 1
+        }
+  
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 613,
+          "y": 557
+        }
+        
+      ]
+    },
+    {
+      "name": "Catacomb: Muddy Mudman platforms room - Upper",
+      "access_rules": ["$height"],
+      "sections": [
+        {
+  
+          "item_count": 1
+        }
+  
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 598,
+          "y": 542
+        }
+        
+      ]
+    },
+    {
+      "name": "Catacomb: Slide space zone",
+      "access_rules": [ ],
+      "sections": [
+        {
+  
+          "item_count": 1
+        }
+  
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 488,
+          "y": 588
+        }
+        
+      ]
+    },
+    {
+      "name": "Catacomb: Pre-Cerberus lone Skeleton room",
+      "access_rules": [ ],
+      "sections": [
+        {
+  
+          "item_count": 1
+        }
+  
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 487,
+          "y": 573
+        }
+        
+      ]
+    },
+    {
+      "name": "Catacomb: Pre-Cerberus Hopper treasure room",
+      "access_rules": [ ],
+      "sections": [
+        {
+  
+          "item_count": 1
+        }
+  
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 424,
+          "y": 572
+        }
+        
+      ]
+    }, 
+  {
+    "name": "Catacomb: Behind Cerberus",
+    "access_rules": [ ],
+    "sections": [
+      {
+
+        "item_count": 1
+      }
+
+    ],
+    "map_locations": [
+      {
+        "map": "full",
+        "x": 391,
+        "y": 557
+      }
+      
+    ]
+  },
+  {
+    "name": "Catacomb: Mummies' fake wall",
+    "access_rules": [ "$doublejump"],
+    "sections": [
+      {
+
+        "item_count": 1
+      }
+
+    ],
+    "map_locations": [
+      {
+        "map": "full",
+        "x": 406,
+        "y": 574
+      }
+      
+    ]
+  }
+]
+},
+{
+  //Abyss Stairway
+  "name": "Abyss Stairway",
+  "access_rules": ["$asaccess"],
+  "children": [ 
+
+  {
+    "name": "Abyss Staircase: Lower fake wall",
+    "access_rules": [],
+    "sections": [
+      {
+
+        "item_count": 1
+      }
+
+    ],
+    "map_locations": [
+      {
+        "map": "full",
+        "x": 358,
+        "y": 557
+      }
+      
+    ]
+  },
+  {
+    "name": "Abyss Staircase: Loopback drop",
+    "access_rules": [ ],
+    "sections": [
+      {
+
+        "item_count": 1
+      }
+
+    ],
+    "map_locations": [
+      {
+        "map": "full",
+        "x": 358,
+        "y": 541
+      }
+      
+    ]
+  },
+  {
+    "name": "Abyss Staircase: Roc ledge",
+    "access_rules": [ "roc"],
+    "sections": [
+      {
+
+        "item_count": 1
+      }
+
+    ],
+    "map_locations": [
+      {
+        "map": "full",
+        "x": 341,
+        "y": 430
+      }
+      
+    ]
+  },
+  {
+    "name": "Abyss Staircase: Upper fake wall",
+    "access_rules": [ ],
+    "sections": [
+      {
+
+        "item_count": 1
+      }
+
+    ],
+    "map_locations": [
+      {
+        "map": "full",
+        "x": 342,
+        "y": 381
+      }
+      
+    ]
+  }
+  ]
+ },
+ {
+  //Audience Room
+  "name": "Audience Room",
+  "access_rules": ["$araccess"],
+  "children": [
+    {
+      "name": "Audience Room: Skeleton foyer fake wall",
+      "access_rules": [
+        
+      ],
+      "sections": [
+        {
+  
+          "item_count": 1
+        }
+  
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 277,
+          "y": 301
+        }
+        
+      ]
+    },
+    {
+      "name": "Audience Room: Main gallery fake wall",
+      "access_rules": [
+        
+      ],
+      "sections": [
+        {
+  
+          "item_count": 1
+        }
+  
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 358,
+          "y": 285
+        }
+        
+      ]
+    },
+    {
+      "name": "Audience Room: Below coyote jump",
+      "access_rules": [
+        
+      ],
+      "sections": [
+        {
+  
+          "item_count": 1
+        }
+  
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 421,
+          "y": 302
+        }
+        
+      ]
+    },
+    {
+      "name": "Audience Room: Push crate gallery",
+      "access_rules": [ "push" ],
+      "sections": [
+        {
+  
+          "item_count": 1
+        }
+  
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 454,
+          "y": 318
+        }
+        
+      ]
+    },
+    {
+      "name": "Audience Room: Past coyote jump",
+      "access_rules": [
+        
+      ],
+      "sections": [
+        {
+  
+          "item_count": 1
+        }
+  
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 437,
+          "y": 286
+        }
+        
+      ]
+    },
+    {
+      "name": "Audience Room: Tackle block gallery",
+      "access_rules": [ "tackle" ],
+      "sections": [
+        {
+  
+          "item_count": 1
+        }
+  
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 454,
+          "y": 270
+        }
+        
+      ]
+    },
+    {
+      "name": "Audience Room: Wicked roc chamber - Lower",
+      "access_rules": [
+        
+      ],
+      "sections": [
+        {
+  
+          "item_count": 1
+        }
+  
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 598,
+          "y": 269
+        }
+        
+      ]
+    },
+    {
+      "name": "Audience Room: Wicked roc chamber - Upper",
+      "access_rules": ["roc"],
+      "sections": [
+        {
+  
+          "item_count": 1
+        }
+  
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 598,
+          "y": 237
+        }
+        
+      ]
+    },
+    {
+      "name": "Audience Room: Upper Devil Tower hallway",
+      "access_rules": [
+        
+      ],
+      "sections": [
+        {
+  
+          "item_count": 1
+        }
+  
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 519,
+          "y": 301
+        }
+        
+      ]
+    },
+    {
+      "name": "Audience Room: Right exterior - Lower",
+      "access_rules": [
+        
+      ],
+      "sections": [
+        {
+  
+          "item_count": 1
+        }
+  
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 641,
+          "y": 320
+        }
+        
+      ]
+    },
+    {
+      "name": "Audience Room: Right exterior - Upper",
+      "access_rules": [ "$walljump" ],
+      "sections": [
+        {
+  
+          "item_count": 1
+        }
+  
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 641,
+          "y": 303
+        }
+        
+      ]
+    },
+    {
+      "name": "Audience Room: Right exterior fake wall",
+      "access_rules": [
+        
+      ],
+      "sections": [
+        {
+  
+          "item_count": 1
+        }
+  
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 583,
+          "y": 318
+        }
+        
+      ]
+    },
+    {
+      "name": "Audience Room: 100 meter skelly dash hallway",
+      "access_rules": [ "kick"],
+      "sections": [
+        {
+  
+          "item_count": 1
+        }
+  
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 757,
+          "y": 318
+        }
+        
+      ]
+    },
+    {
+      "name": "Audience Room: Lower Devil Tower hallway fake wall",
+      "access_rules": [
+        
+      ],
+      "sections": [
+        {
+  
+          "item_count": 1
+        }
+  
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 549,
+          "y": 334
+        }
+        
+      ]
+    },
+    {
+      "name": "Audience Room: Behind Necromancer",
+      "access_rules": [
+        
+      ],
+      "sections": [
+        {
+  
+          "item_count": 1
+        }
+  
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 438,
+          "y": 302
+        }
+        
+      ]
+    },
+    
+    {
+      "name": "Audience Room: Roc horse jaguar armory - Left",
+      "access_rules": [ "roc"
+        
+      ],
+      "sections": [
+        {
+  
+          "item_count": 1
+        }
+  
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 376,
+          "y": 142
+        }
+        
+      ]
+    },
+    {
+      "name": "Audience Room: Roc horse jaguar armory - Right",
+      "access_rules": [ "roc"
+        
+      ],
+      "sections": [
+        {
+  
+          "item_count": 1
+        }
+  
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 389,
+          "y": 142
+        }
+        
+      ]
+    }
+  ]
+},
+{
+  //Machine Tower
+  "name": "Machine Tower",
+  "access_rules": ["$mtaccess"],
+  "children": [
+    {
+      "name": "Audience Room: Below Machine Tower roc ledge",
+      "access_rules": [ "roc"],
+      "sections": [
+        {
+  
+          "item_count": 1
+        }
+  
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 149,
+          "y": 286
+        }
+        
+      ]
+    },
+    {
+      "name": "Audience Room: Below Machine Tower push crate room",
+      "access_rules": [
+        "push"
+      ],
+      "sections": [
+        {
+  
+          "item_count": 1
+        }
+  
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 182,
+          "y": 334
+        }
+        
+      ]
+    },
+    {
+      "name": "Machine Tower: Foxy platforms ledge",
+      "access_rules": [ 
+        
+      ],
+      "sections": [
+        {
+  
+          "item_count": 1
+        }
+  
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 167,
+          "y": 254
+        }
+        
+      ]
+    },
+    {
+      "name": "Machine Tower: Knight fox meeting room",
+      "access_rules": [ 
+        
+      ],
+      "sections": [
+        {
+  
+          "item_count": 1
+        }
+  
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 230,
+          "y": 286
+        }
+        
+      ]
+    },
+    {
+      "name": "Machine Tower: Boneheaded argument wall kicks room",
+      "access_rules": [ "$walljump"],
+      "sections": [
+        {
+  
+          "item_count": 1
+        }
+  
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 214,
+          "y": 237
+        }
+        
+      ]
+    },
+    {
+      "name": "Machine Tower: Foxy fake wall",
+      "access_rules": [ 
+        
+      ],
+      "sections": [
+        {
+  
+          "item_count": 1
+        }
+  
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 166,
+          "y": 236
+        }
+        
+      ]
+    },
+    {
+      "name": "Machine Tower: Skelly-rang wall kicks room",
+      "access_rules": [ "$walljump"],
+      "sections": [
+        {
+  
+          "item_count": 1
+        }
+  
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 134,
+          "y": 174
+        }
+        
+      ]
+    },
+    {
+      "name": "Machine Tower: Fake Lilim wall",
+      "access_rules": [ 
+        
+      ],
+      "sections": [
+        {
+  
+          "item_count": 1
+        }
+  
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 134,
+          "y": 190
+        }
+        
+      ]
+    },
+    {
+      "name": "Machine Tower: Thunderous zone fake wall",
+      "access_rules": [ 
+        
+      ],
+      "sections": [
+        {
+  
+          "item_count": 1
+        }
+  
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 246,
+          "y": 190
+        }
+        
+      ]
+    },
+    {
+      "name": "Machine Tower: Thunderous zone lone Stone Armor room",
+      "access_rules": [ 
+        
+      ],
+      "sections": [
+        {
+  
+          "item_count": 1
+        }
+  
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 198,
+          "y": 206
+        }
+        
+      ]
+    },
+    
+    {
+      "name": "Machine Tower: Stone fox hallway",
+      "access_rules": [ "tackle"],
+      "sections": [
+        {
+  
+          "item_count": 1
+        }
+  
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 118,
+          "y": 158
+        }
+        
+      ]
+    },
+   
+  ]
+},
+{
+  //Underground Warehouse
+  "name": "Underground Warehouse",
+  "access_rules": ["$uwaccess"],
+  "children": [
+
+    
+    {
+      "name": "Underground Warehouse: Forever pushing room",
+      "access_rules": [
+        
+      ],
+      "sections": [
+        {
+          "item_count": 1
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 260,
+          "y": 452
+        }      
+      ]
+    },
+    {
+      "name": "Underground Warehouse: Crate-nudge fox room",
+      "access_rules": [
+        
+      ],
+      "sections": [
+        {
+          "item_count": 1
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 182,
+          "y": 430
+        }      
+      ]
+    },
+    {
+      "name": "Underground Warehouse: Crate-nudge fake wall",
+      "access_rules": [
+        
+      ],
+      "sections": [
+        {
+          "item_count": 1
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 214,
+          "y": 430
+        }      
+      ]
+    },
+    {
+      "name": "Underground Warehouse: Succubus shaft roc ledge",
+      "access_rules": [ "roc"
+        
+      ],
+      "sections": [
+        {
+          "item_count": 1
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 166,
+          "y": 430
+        }      
+      ]
+    },
+    {
+      "name": "Underground Warehouse: Fake Lilith wall",
+      "access_rules": [
+        
+      ],
+      "sections": [
+        {
+          "item_count": 1
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 198,
+          "y": 478
+        }      
+      ]
+    },
+    {
+      "name": "Underground Warehouse: Optional puzzle ceiling fake wall",
+      "access_rules": [ "$freeze","roc"
+        
+      ],
+      "sections": [
+        {
+          "item_count": 1
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 214,
+          "y": 478
+        }      
+      ]
+    },
+    {
+      "name": "Underground Warehouse: Holy fox hideout - Left",
+      "access_rules": [
+        
+      ],
+      "sections": [
+        {
+          "item_count": 1
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 278,
+          "y": 460
+        }      
+      ]
+    },
+    {
+      "name": "Underground Warehouse: Holy fox hideout - Right roc ledge",
+      "access_rules": [ "roc"
+        
+      ],
+      "sections": [
+        {
+          "item_count": 1
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 292,
+          "y": 460
+        }      
+      ]
+    },
+    {
+      "name": "Underground Warehouse: Forest Armor's domain fake wall",
+      "access_rules": [
+        
+      ],
+      "sections": [
+        {
+          "item_count": 1
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 260,
+          "y": 526
+        }      
+      ]
+    },
+    {
+      "name": "Underground Warehouse: Behind Death",
+      "access_rules": [
+        
+      ],
+      "sections": [
+        {
+          "item_count": 1
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 166,
+          "y": 558
+        }      
+      ]
+    },
+    {
+      "name": "Underground Warehouse: Behind Death fake wall",
+      "access_rules": [
+        
+      ],
+      "sections": [
+        {
+          "item_count": 1
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 150,
+          "y": 558
+        }      
+      ]
+    },
+    {
+      "name": "Underground Warehouse: Dryad expulsion chamber",
+      "access_rules": [
+        
+      ],
+      "sections": [
+        {
+          "item_count": 1
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 310,
+          "y": 524
+        }      
+      ]
+    }
+  ]
+},
+{
+//Underground Gallery West
+  "name": "Underground Gallery West",
+  "access_rules": ["$ugwaccess", "$ugeaccess, tackle"],
+  "children": [ 
+    {
+      "name": "Underground Gallery: Handy bee hallway",
+      "access_rules": [
+       
+      ],
+      "sections": [
+        {
+          "item_count": 1
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 694,
+          "y": 414
+        }      
+      ]
+    },
+    {
+      "name": "Underground Gallery: Myconid fake wall",
+      "access_rules": [
+        
+      ],
+      "sections": [
+        {
+          "item_count": 1
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 438,
+          "y": 414
+        }      
+      ]
+    },
+    {
+      "name": "Underground Gallery: Crumble bridge fake wall",
+      "access_rules": [
+        
+      ],
+      "sections": [
+        {
+          "item_count": 1
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 398,
+          "y": 414
+        }      
+      ]
+    },
+    {
+      "name": "Underground Gallery: Behind Dragon Zombies",
+      "access_rules": [
+        
+      ],
+      "sections": [
+        {
+          "item_count": 1
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 422,
+          "y": 366
+        }      
+      ]
+    }
+]
+},
+{
+  //Underground Gallery East
+  "name": "Underground Gallery East",
+  "access_rules": ["$ugeaccess", "$ugwaccess, tackle"],
+  "children": [ 
+    {
+      "name": "Underground Gallery: Conveyor platform ride",
+      "access_rules": [
+        
+      ],
+      "sections": [
+        {
+          "item_count": 1
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 614,
+          "y": 374
+        }      
+      ]
+    },
+    {
+      "name": "Underground Gallery: Conveyor upper push crate room",
+      "access_rules": [
+        "push"
+      ],
+      "sections": [
+        {
+          "item_count": 1
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 550,
+          "y": 366
+        }      
+      ]
+    },
+    {
+      "name": "Underground Gallery: Conveyor lower push crate room",
+      "access_rules": [
+        "push"
+      ],
+      "sections": [
+        {
+          "item_count": 1
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 694,
+          "y": 382
+        }      
+      ]
+    },
+    {
+      "name": "Underground Gallery: Harpy climb room - Lower",
+      "access_rules": [
+        "$walljump, $freeze", "roc"
+      ],
+      "sections": [
+        {
+          "name": "Upper",
+          "item_count": 1
+        },
+        {
+          "name": "Lower",
+          "item_count": 1
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 534,
+          "y": 366
+        }      
+      ]
+    }
+    
+    
+
+]
+},
+{
+  "name": "Chapel Tower",
+  "access_rules": ["$ctaccess"],
+  "children": [
+
+    {
+      "name": "Chapel Tower: Flame Armor climb room",
+      "access_rules": [ "$freeze", "roc"
+        
+      ],
+      "sections": [
+        {
+  
+          "item_count": 1
+        }
+  
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 838,
+          "y": 333
+        }
+        
+      ]
+    },
+    {
+      "name": "Chapel Tower: Lower chapel push crate room",
+      "access_rules": [ "push"
+        
+      ],
+      "sections": [
+        {
+  
+          "item_count": 1
+        }
+  
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 772,
+          "y": 334
+        }
+        
+      ]
+    },
+    {
+      "name": "Chapel Tower: Lower chapel fake wall",
+      "access_rules": [
+        
+      ],
+      "sections": [
+        {
+  
+          "item_count": 1
+        }
+  
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 758,
+          "y": 302
+        }
+        
+      ]
+    },
+    {
+      "name": "Chapel Tower: Beastly wall kicks room - Brain side",
+      "access_rules": [
+        
+      ],
+      "sections": [
+        {
+  
+          "item_count": 1
+        }
+  
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 742,
+          "y": 249
+        }
+        
+      ]
+    },
+    {
+      "name": "Chapel Tower: Beastly wall kicks room - Brawn side",
+      "access_rules": [
+        
+      ],
+      "sections": [
+        {
+  
+          "item_count": 1
+        }
+  
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 742,
+          "y": 238
+        }
+        
+      ]
+    },
+    {
+      "name": "Chapel Tower: Middle chapel fake wall",
+      "access_rules": [
+        
+      ],
+      "sections": [
+        {
+  
+          "item_count": 1
+        }
+  
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 774,
+          "y": 254
+        }
+        
+      ]
+    },
+    {
+      "name": "Chapel Tower: Middle chapel push crate room",
+      "access_rules": [ "push"
+        
+      ],
+      "sections": [
+        {
+  
+          "item_count": 1
+        }
+  
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 759,
+          "y": 222
+        }
+        
+      ]
+    },
+    {
+      "name": "Chapel Tower: Sharp mind climb room",
+      "access_rules": [
+         "$freeze", "roc"
+      ],
+      "sections": [
+        {
+  
+          "item_count": 1
+        }
+  
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 822,
+          "y": 158
+        }
+        
+      ]
+    },
+    {
+      "name": "Chapel Tower: Upper chapel fake wall",
+      "access_rules": [
+        
+      ],
+      "sections": [
+        {
+  
+          "item_count": 1
+        }
+  
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 822,
+          "y": 142
+        }
+        
+      ]
+    },
+    {
+      "name": "Chapel Tower: Upper chapel Marionette wall kicks",
+      "access_rules": [
+        
+      ],
+      "sections": [
+        {
+  
+          "item_count": 1
+        }
+  
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 727,
+          "y": 156
+        }
+        
+      ]
+    },
+    {
+      "name": "Chapel Tower: Upper belfry fake wall",
+      "access_rules": [
+        
+      ],
+      "sections": [
+        {
+  
+          "item_count": 1
+        }
+  
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 662,
+          "y": 126
+        }
+        
+      ]
+    },
+    {
+      "name": "Chapel Tower: Switch",
+      "access_rules": [
+        
+      ],
+      "sections": [
+        {
+  
+          "item_count": 1,
+          "hosted_item": "openmaiden"
+        }
+  
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 773,
+          "y": 110
+        
+        }
+        
+      ]
+    },
+    {
+      "name": "Chapel Tower: Behind Adramelech iron maiden",
+      "access_rules": [
+        
+      ],
+      "sections": [
+        {
+  
+          "item_count": 1
+        }
+  
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 790,
+          "y": 110
+        }
+        
+      ]
+    },
+    {
+      "name": "Chapel Tower: Outside Battle Arena - Upper",
+      "access_rules": [ "roc"
+        
+      ],
+      "sections": [
+        {
+  
+          "item_count": 1
+        }
+  
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 582,
+          "y": 111
+        }
+        
+      ]
+    },
+    {
+      "name": "Chapel Tower: Outside Battle Arena - Lower",
+      "access_rules": [ "roc"
+        
+      ],
+      "sections": [
+        {
+  
+          "item_count": 1
+        }
+  
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 582,
+          "y": 174
+        }
+        
+      ]
+    },
+    {
+      "name": "Eternal Corridor: Midway fake wall",
+      "access_rules": [
+        
+      ],
+      "sections": [
+        {
+  
+          "item_count": 1
+        }
+  
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 662,
+          "y": 366
+        }
+        
+      ]
+    },
+    {
+      "name": "Eternal Corridor: Skelly-rang wall kicks room",
+      "access_rules": [
+        
+      ],
+      "sections": [
+        {
+  
+          "item_count": 1
+        }
+  
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 710,
+          "y": 364
+        }
+        
+      ]
+    },
+    {
+      "name": "Eternal Corridor: Skelly-rang fake wall",
+      "access_rules": [ 
+        
+      ],
+      "sections": [
+        {
+  
+          "item_count": 1
+        }
+  
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 694,
+          "y": 398
+        }
+        
+      ]
+    }
+  ]
+},
+{
+  "name": "Outer Wall",
+  "access_rules": ["$araccess"],
+  "children": [
+    {
+      "name": "Outer Wall: Left roc ledge",
+      "access_rules": [
+        "roc"
+      ],
+      "sections": [
+        {
+  
+          "item_count": 1
+        }
+  
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 470,
+          "y": 206
+        }
+        
+      ]
+    },
+    {
+      "name": "Outer Wall: Right-brained ledge",
+      "access_rules": [
+        "$freeze", "roc"
+      ],
+      "sections": [
+        {
+  
+          "item_count": 1
+        }
+  
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 533,
+          "y": 227
+        }
+        
+      ]
+    },
+    {
+      "name": "Outer Wall: Fake Nightmare floor",
+      "access_rules": [
+        
+      ],
+      "sections": [
+        {
+  
+          "item_count": 1
+        }
+  
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 486,
+          "y": 270
+        }
+        
+      ]
+    }
+
+  ]},
+
+{
+  "name": "Observation Tower",
+  "access_rules": ["roc"],
+  "children": [ {
+    "name": "Observation Tower: Wind Armor rampart",
+    "access_rules": [ ],
+    "sections": [
+      {
+
+        "item_count": 1
+      }
+
+    ],
+    "map_locations": [
+      {
+        "map": "full",
+        "x": 454,
+        "y": 174
+      }
+      
+    ]
+  },
+  {
+    "name": "Observation Tower: Legion plaza fake wall",
+    "access_rules": [ ],
+    "sections": [
+      {
+
+        "item_count": 1
+      }
+
+    ],
+    "map_locations": [
+      {
+        "map": "full",
+        "x": 406,
+        "y": 172
+      }
+      
+    ]
+  },
+  {
+    "name": "Observation Tower: Legion plaza Minotaur hallway",
+    "access_rules": [ ],
+    "sections": [
+      {
+
+        "item_count": 1
+      }
+
+    ],
+    "map_locations": [
+      {
+        "map": "full",
+        "x": 518,
+        "y": 158
+      }
+      
+    ]
+  },
+  {
+    "name": "Observation Tower: Siren balcony fake wall",
+    "access_rules": [ ],
+    "sections": [
+      {
+
+        "item_count": 1
+      }
+
+    ],
+    "map_locations": [
+      {
+        "map": "full",
+        "x": 406,
+        "y": 94
+      }
+      
+    ]
+  },
+  {
+    "name": "Observation Tower: Evil Pillar pit fake wall",
+    "access_rules": [ ],
+    "sections": [
+      {
+
+        "item_count": 1
+      }
+
+    ],
+    "map_locations": [
+      {
+        "map": "full",
+        "x": 516,
+        "y": 142
+      }
+      
+    ]
+  },
+  {
+    "name": "Observation Tower: Alraune garden",
+    "access_rules": [ ],
+    "sections": [
+      {
+
+        "item_count": 1
+      }
+
+    ],
+    "map_locations": [
+      {
+        "map": "full",
+        "x": 470,
+        "y": 110
+      }
+      
+    ]
+  },
+  {
+    "name": "Observation Tower: Dark Armor's domain fake wall",
+    "access_rules": [ ],
+    "sections": [
+      {
+
+        "item_count": 1
+      }
+
+    ],
+    "map_locations": [
+      {
+        "map": "full",
+        "x": 582,
+        "y": 44
+      }
+      
+    ]
+  },
+  {
+    "name": "Observation Tower: Catoblepeas hallway",
+    "access_rules": [ ],
+    "sections": [
+      {
+
+        "item_count": 1
+      }
+
+    ],
+    "map_locations": [
+      {
+        "map": "full",
+        "x": 502,
+        "y": 62
+      }
+      
+    ]
+  },
+  {
+    "name": "Observation Tower: Near warp room fake wall",
+    "access_rules": [ ],
+    "sections": [
+      {
+
+        "item_count": 1
+      }
+
+    ],
+    "map_locations": [
+      {
+        "map": "full",
+        "x": 470,
+        "y": 44
+      }
+      
+    ]
+  },
+  {
+    "name": "Observation Tower: Behind Hugh",
+    "access_rules": [ ],
+    "sections": [
+      {
+
+        "item_count": 1
+      }
+
+    ],
+    "map_locations": [
+      {
+        "map": "full",
+        "x": 486,
+        "y": 30
+      }
+      
+    ]
+  }
+  ]
+},
+{
+  "name": "Underground Waterways",
+  "access_rules": ["$wateraccess"],
+  "children": [
+    
+    {
+      "name": "Underground Waterway: Before illusory wall",
+      "access_rules": [
+        
+      ],
+      "sections": [
+        {
+          "item_count": 1
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 404,
+          "y": 494
+        }      
+      ]
+    },
+    {
+      "name": "Underground Waterway: Beyond illusory wall",
+      "access_rules": [
+        
+      ],
+      "sections": [
+        {
+          "item_count": 1
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 390,
+          "y": 494
+        }      
+      ]
+    },
+    {
+      "name": "Underground Waterway: Ice Armor's domain fake wall",
+      "access_rules": [
+        
+      ],
+      "sections": [
+        {
+          "item_count": 1
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 406,
+          "y": 462
+        }      
+      ]
+    },
+    {
+      "name": "Underground Waterway: Brain freeze room",
+      "access_rules": [ "$freeze", "roc"
+        
+      ],
+      "sections": [
+        {
+          "item_count": 1
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 422,
+          "y": 430
+        }      
+      ]
+    },
+    {
+      "name": "Underground Waterway: Middle lone Ice Armor room",
+      "access_rules": [
+        
+      ],
+      "sections": [
+        {
+          "item_count": 1
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 550,
+          "y": 478
+        }      
+      ]
+    },
+    {
+      "name": "Underground Waterway: Roc fake ceiling",
+      "access_rules": [ "roc"
+        
+      ],
+      "sections": [
+        {
+          "item_count": 1
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 518,
+          "y": 446
+        }      
+      ]
+    },
+    {
+      "name": "Underground Waterway: Wicked Fishhead moat - Bottom",
+      "access_rules": [
+        
+      ],
+      "sections": [
+        {
+          "item_count": 1
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 550,
+          "y": 508
+        }      
+      ]
+    },
+    {
+      "name": "Underground Waterway: Wicked Fishhead moat - Top",
+      "access_rules": [
+        
+      ],
+      "sections": [
+        {
+          "item_count": 1
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 566,
+          "y": 462
+        }      
+      ]
+    },
+    {
+      "name": "Underground Waterway: Lizard-man turf - Bottom",
+      "access_rules": ["$cleansed"
+        
+      ],
+      "sections": [
+        {
+          "item_count": 1
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 662,
+          "y": 492
+        }      
+      ]
+    }
+    
+    
+ 
+  ]
+},
+{
+  "name": "Waterway Back Dip",
+  "access_rules": ["$wateraccess", "roc"],
+  "children": [
+    {
+      "name": "Underground Warehouse: Entrance push crate room",
+      "access_rules": [ "$araccess, push"
+        
+      ],
+      "sections": [
+        {
+          "item_count": 1
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 310,
+          "y": 380
+        }      
+      ]
+    },
+    {
+      "name": "Underground Waterway: Lizard-man turf - Top",
+      "access_rules": [
+        
+      ],
+      "sections": [
+        {
+          "item_count": 1
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 662,
+          "y": 462
+        }      
+      ]
+    },
+    {
+      "name": "Underground Waterway: Roc exit shaft",
+      "access_rules": [ "roc"
+        
+      ],
+      "sections": [
+        {
+          "item_count": 1
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 742,
+          "y": 414
+        }      
+      ]
+    },
+    {
+      "name": "Underground Waterway: Behind Camilla",
+      "access_rules": [
+        "$cleansed"
+      ],
+      "sections": [
+        {
+          "item_count": 1
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 822,
+          "y": 478
+        }      
+      ]
+    },
+    {
+      "name": "Underground Waterway: Roc exit shaft fake wall",
+      "access_rules": [
+        "roc"
+      ],
+      "sections": [
+        {
+          "item_count": 1
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 774,
+          "y": 414
+        }      
+      ]
+    }
+
+  ]
+},
+{
+  "name": "Ceremonial Room",
+  "access_rules": ["$araccess"],
+  "children": [
+    {
+      "name": "Ceremonial Room: Dracula",
+      "access_rules": [ "$keys, $extraheight","$keys, kick"],
+      "sections": [
+        {
+  
+          "item_count": 1
+        }
+  
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 326,
+          "y": 334
+        }
+        
+      ]
+    },
+    {
+      "name": "Ceremonial Room: Fake Floor",
+      "access_rules": [ "$keys, $walljump"],
+      "sections": [
+        {
+          "name": "Can't get out without kick or roc",
+          "item_count": 1
+        }
+  
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 342,
+          "y": 366
+        }
+        
+      ]
+    }
+
+  ]
+},
+  //Rebels
+  {
+    "name": "Machine Tower: Top lone Stone Armor room",
+    "access_rules": [ "double, kick","roc"],
+    "sections": [
+      {
+
+        "item_count": 1
+      }
+
+    ],
+    "map_locations": [
+      {
+        "map": "full",
+        "x": 246,
+        "y": 174
+      }
+      
+    ]
+  },
+  {
+    "name": "Machine Tower: Pre-Iron Golem fake wall",
+    "access_rules": [ "double, kick","roc"],
+    "sections": [
+      {
+
+        "item_count": 1
+      }
+
+    ],
+    "map_locations": [
+      {
+        "map": "full",
+        "x": 166,
+        "y": 110
+      }
+      
+    ]
+  },
+  {
+    "name": "Machine Tower: Behind Iron Golem",
+    "access_rules": [ "double, kick","roc"],
+    "sections": [
+      {
+
+        "item_count": 1
+      }
+
+    ],
+    "map_locations": [
+      {
+        "map": "full",
+        "x": 230,
+        "y": 126
+      }
+      
+    ]
+  },
+{
+  "name": "Underground Gallery: Harpy mantis tackle hallway",
+  "access_rules": [
+    "$ugeaccess, tackle", "$ugwaccess, tackle"
+  ],
+  "sections": [
+    {
+      "item_count": 1
+    }
+  ],
+  "map_locations": [
+    {
+      "map": "full",
+      "x": 660,
+      "y": 398
+    }      
+  ]
+},
+{
+  "name": "Sealed Room: Main shaft left fake wall",
+  "access_rules": [
+    "roc"
+  ],
+  "sections": [
+    {
+
+      "item_count": 1
+    }
+
+  ],
+  "map_locations": [
+    {
+      "map": "full",
+      "x": 308,
+      "y": 415
+    }
+    
+  ]
+},
+{
+  "name": "Battle Arena: End reward",
+  "access_rules": [ "$ctaccess, roc"
+    
+  ],
+  "sections": [
+    {
+
+      "item_count": 1
+    }
+
+  ],
+  "map_locations": [
+    {
+      "map": "full",
+      "x": 614,
+      "y": 190
+    }
+    
+  ]
+},
+{
+  "name": "Triumph Hallway: Skeleton slopes fake wall",
+  "access_rules": ["$araccess"],
+  "sections": [
+    {
+      "item_count": 1
+    }
+
+  ],
+  "map_locations": [
+    {
+      "map": "full",
+      "x": 214,
+      "y": 334
+    }      
+  ]
+},
+{
+  "name": "Triumph Hallway: Entrance Flame Armor climb",
+  "access_rules": [
+    "$araccess, kick, $freeze", "$araccess, roc"
+  ],
+  "sections": [
+    {
+      "item_count": 1
+    }
+  ],
+  "map_locations": [
+    {
+      "map": "full",
+      "x": 134,
+      "y": 318
+    }      
+  ]
+},
+{
+  "name": "Underground Waterway: Entrance fake wall",
+  "access_rules": [ "$height, openmaiden" ],
+  "sections": [
+    {
+      "item_count": 1
+    }
+  ],
+  "map_locations": [
+    {
+      "map": "full",
+      "x": 358,
+      "y": 510
+    }      
+  ]
+}
+]

@@ -1,0 +1,25 @@
+﻿// this the manifest for you pack
+// it contains basic information about your pack
+// for more info on the manifest check: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#manifest
+{
+  "name": "CotM Maptracker",
+  "game_name": "Castlevania: Circle of the Moon",
+  "package_version": "0.1.2",
+  "package_uid": "castlevaniaCotM_maptracker_sassyvania",
+  "platform": "PC", 
+  "author": "Sassyvania",
+  "variants": {
+    "standard": {
+      "display_name": "Map Tracker",
+      "flags": [
+         "ap"
+      ]
+    },
+    "var_itemsonly": {
+     "display_name": "Items Only",
+     "platform": "PC", 
+     "flags": [ "ap"
+     ]
+    }
+  }
+}

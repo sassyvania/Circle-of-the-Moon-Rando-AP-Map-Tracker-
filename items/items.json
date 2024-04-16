@@ -1,0 +1,173 @@
+[
+    // Relics
+  {
+    "name": "Dash Boots",
+    "type": "toggle",
+    "img": "images/relics/dashboots.png",
+    "codes": "dash"
+  },
+  {
+    "name": "Double",
+    "type": "toggle",
+    "img": "images/relics/double.png",
+    "codes": "double"
+  },
+  {
+    "name": "Tackle",
+    "type": "toggle",
+    "img": "images/relics/Tackle.png",
+    "codes": "tackle"
+  },
+  {
+    "name": "Kick Boots",
+    "type": "toggle",
+    "img": "images/relics/kickboots.png",
+    "codes": "kick"
+  },
+  {
+    "name": "Heavy Ring",
+    "type": "toggle",
+    "img": "images/relics/heavyring.png",
+    "codes": "push"
+  },
+  {
+    "name": "Cleansing",
+    "type": "toggle",
+    "img": "images/relics/Cleansing.png",
+    "codes": "cleansing"
+  },
+  {
+    "name": "Roc Wing",
+    "type": "toggle",
+    "img": "images/relics/RocWing.png",
+    "codes": "roc"
+  },
+  {
+    "name": "Last Keys",
+    "type": "consumable",
+    "img": "images/relics/LastKey.png",
+    "max_quantity": 8,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_background": "#000000",
+    "overlay_font_size": 8,
+    "codes": "last_keys"
+  },
+  
+
+
+  // Cards
+  {
+    "name": "Mercury",
+    "type": "toggle",
+    "img": "images/cards/mercury.png",
+    "codes": "mercury"
+  },
+  {
+    "name": "Mars",
+    "type": "toggle",
+    "img": "images/cards/mars.png",
+    "codes": "mars"
+  },
+  {
+    "name": "Serpent",
+    "type": "toggle",
+    "img": "images/cards/serpent.png",
+    "codes": "serpent"
+  },
+  {
+    "name": "Cockatrice",
+    "type": "toggle",
+    "img": "images/cards/cockatrice.png",
+    "codes": "cockatrice"
+  },
+// Events
+{
+  "name": "Iron Maiden",
+  "type": "progressive",
+  "allow_disabled": false,
+  "initial_stage_idx": 0,
+  "stages": [
+    {
+      "img": "images/events/maidenstand.png",
+      "codes": "maiden",
+      "inherit_codes": false
+    },
+    {
+      "img": "images/events/maidenfall.png",
+      "codes": "openmaiden",
+      "inherit_codes": false
+    }
+  ]
+  
+},
+{
+  "name": "Ignore Cleansing",
+  "type": "progressive",
+  "allow_disabled": false,
+  "initial_stage_idx": 0,
+  "stages": [
+    {
+      "img": "images/events/ignoreoff.png",
+      "codes": "dry",
+      "inherit_codes": false
+    },
+    {
+      "img": "images/events/ignoreon.png",
+      "codes": "ignore",
+      "inherit_codes": false
+    }
+  ]
+  
+},
+{
+  "name": "Required Keys",
+  "type": "progressive",
+  "allow_disabled": false,
+  "initial_stage_idx": 0,
+  "stages": [
+    {
+      "img": "images/lastkeys/1.png",
+      "codes": "finalkeys",
+      "inherit_codes": true
+    },
+    {
+      "img": "images/lastkeys/2.png",
+      "codes": "2",
+      "inherit_codes": true
+    },
+    {
+      "img": "images/lastkeys/3.png",
+      "codes": "3",
+      "inherit_codes": true
+    },
+    {
+      "img": "images/lastkeys/4.png",
+      "codes": "4",
+      "inherit_codes": true
+    },
+    {
+      "img": "images/lastkeys/5.png",
+      "codes": "5",
+      "inherit_codes": true
+    },
+    {
+      "img": "images/lastkeys/6.png",
+      "codes": "6",
+      "inherit_codes": true
+    },
+    {
+      "img": "images/lastkeys/7.png",
+      "codes": "7",
+      "inherit_codes": true
+    },
+    {
+      "img": "images/lastkeys/8.png",
+      "codes": "8",
+      "inherit_codes": true
+    }
+  ]
+  
+}
+]

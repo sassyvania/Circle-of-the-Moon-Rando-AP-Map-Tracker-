@@ -2466,27 +2466,17 @@
     
   ]
 },
-{
-  "name": "Battle Arena: End reward",
-  "access_rules": [ "$ctaccess, roc"
-    
-  ],
-  "sections": [
-    {
-
-      "item_count": 1
-    }
-
-  ],
-  "map_locations": [
-    {
-      "map": "full",
-      "x": 614,
-      "y": 190
-    }
-    
-  ]
-},
+  // maybe someday
+//{
+ // "name": "Battle Arena: End reward",
+ // "access_rules": [ "$ctaccess, roc" ],
+ // "sections": [
+ //   { "item_count": 1}],
+ // "map_locations": [
+ //   {"map": "full",
+ //     "x": 614,
+ //     "y": 190}]},
+  
 {
   "name": "Triumph Hallway: Skeleton slopes fake wall",
   "access_rules": ["$araccess"],

@@ -406,7 +406,7 @@
   },
   {
     "name": "Abyss Staircase: Upper fake wall",
-    "access_rules": [ ],
+    "access_rules": [ "$doublejump"],
     "sections": [
       {
 

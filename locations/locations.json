@@ -1018,7 +1018,24 @@
   "access_rules": ["$uwaccess"],
   "children": [
 
-    
+    {
+      "name": "Underground Warehouse: Entrance push crate room",
+      "access_rules": [ "$araccess, push"
+        
+      ],
+      "sections": [
+        {
+          "item_count": 1
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "full",
+          "x": 310,
+          "y": 380
+        }      
+      ]
+    },
     {
       "name": "Underground Warehouse: Forever pushing room",
       "access_rules": [
@@ -2231,24 +2248,7 @@
   "name": "Waterway Back Dip",
   "access_rules": ["$wateraccess", "roc"],
   "children": [
-    {
-      "name": "Underground Warehouse: Entrance push crate room",
-      "access_rules": [ "$araccess, push"
-        
-      ],
-      "sections": [
-        {
-          "item_count": 1
-        }
-      ],
-      "map_locations": [
-        {
-          "map": "full",
-          "x": 310,
-          "y": 380
-        }      
-      ]
-    },
+    
     {
       "name": "Underground Waterway: Lizard-man turf - Top",
       "access_rules": [

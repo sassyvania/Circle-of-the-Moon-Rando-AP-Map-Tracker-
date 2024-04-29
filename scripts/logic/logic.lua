@@ -71,7 +71,7 @@ function ugeaccess()
   
 end
 function ugwaccess()
-    return (((has("double") and has("kick") or has("rock"))) and has("openmaiden") and has("push"))
+    return (((has("$extraheight")) and has("openmaiden") and has("push")))
   
 end
 function wateraccess()

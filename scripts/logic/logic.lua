@@ -75,7 +75,7 @@ function ugwaccess()
   
 end
 function wateraccess()
-    return ((has("$height") and has("openmaiden") and has("$cleansed")))
+    return ((has("$extraheight") and has("openmaiden") and has("$cleansed")))
   
 end
 

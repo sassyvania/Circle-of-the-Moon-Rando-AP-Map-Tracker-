@@ -2468,7 +2468,7 @@
   ]
 },
   // maybe someday
-//{
+{
   "name": "Battle Arena: End reward",
   "access_rules": [ "$ctaccess, roc" ],
   "sections": [

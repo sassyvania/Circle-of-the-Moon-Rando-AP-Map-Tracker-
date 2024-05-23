@@ -7,6 +7,7 @@ Poptracker
 https://github.com/black-sliver/PopTracker
 
 This pack would not be possible without j_im's infinite patience and guidance with logic scripts.
+Thanks to Giga Otomia for the colored map!!
 
 AP autotracking is now implemented
 

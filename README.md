@@ -12,9 +12,9 @@ Thanks to Giga Otomia for the colored map!!
 AP autotracking is now implemented
 
 Notes:
-Iron Maiden will probably always be manual.
+Iron Maiden seems to be autotracking!
 Setting Ignore Cleansing to ON will basically have the same effect on the tracker as having the Cleansing relic.
-The Last Keys item sets how many you need to open up the Dracula fight.
+Left (add) and right (subtract) clicking the Last Keys item manually sets how many keys you need before Dracula's chamber is accessible.
 
 # To-Do list
 1) General Testing

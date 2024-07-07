@@ -1685,7 +1685,7 @@
     },
     {
       "name": "Chapel Tower: Outside Battle Arena - Upper",
-      "access_rules": [ "roc"
+      "access_rules": [ "roc, push"
         
       ],
       "sections": [
@@ -1706,7 +1706,7 @@
     },
     {
       "name": "Chapel Tower: Outside Battle Arena - Lower",
-      "access_rules": [ "roc"
+      "access_rules": [ "roc, push"
         
       ],
       "sections": [

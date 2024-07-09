@@ -59,7 +59,7 @@ function ctaccess()
   
 end
 function mtaccess()
-    return (has("$extraheight") and has("tackle"))
+    return (has("$height") and has("tackle"))
   
 end
 function uwaccess()

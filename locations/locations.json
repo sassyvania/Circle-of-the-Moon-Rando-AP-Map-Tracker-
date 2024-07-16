@@ -2470,7 +2470,7 @@
   // maybe someday
 {
   "name": "Battle Arena: End reward",
-  "access_rules": [ "$ctaccess, roc" ],
+  "access_rules": [ "$ctaccess, roc, push" ],
   "sections": [
     { "item_count": 1}],
   "map_locations": [

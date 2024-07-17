@@ -2234,7 +2234,7 @@
     
     {
       "name": "Underground Waterway: Lizard-man turf - Top",
-      "access_rules": [
+      "access_rules": [ "cleansed"
         
       ],
       "sections": [
